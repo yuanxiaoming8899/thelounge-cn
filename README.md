@@ -1,95 +1,85 @@
-<h1 align="center">
-	<img
-		width="300"
-		alt="The Lounge"
-		src="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true"><img width="300" alt="休息室" src="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true" style="max-width: 100%;"></a>
 </h1>
-
-<h3 align="center">
-	Modern web IRC client designed for self-hosting
-</h3>
-
-<p align="center">
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content-modern-web-irc-client-designed-for-self-hosting" class="anchor" aria-hidden="true" tabindex="-1" href="#modern-web-irc-client-designed-for-self-hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+	专为自托管而设计的现代网络 IRC 客户端
+</font></font></h3>
+<p align="center" dir="auto">
 	<strong>
-		<a href="https://thelounge.chat/">Website</a>
+		<a href="https://thelounge.chat/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 		•
-		<a href="https://thelounge.chat/docs">Docs</a>
+		</font></font><a href="https://thelounge.chat/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 		•
-		<a href="https://demo.thelounge.chat/">Demo</a>
+		</font></font><a href="https://demo.thelounge.chat/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     •
-		<a href="https://github.com/thelounge/thelounge-docker">Docker</a>
+		 </font></font><a href="https://github.com/thelounge/thelounge-docker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></a>
 	</strong>
 </p>
-<p align="center">
-	<a href="https://demo.thelounge.chat/"><img
-		alt="#thelounge IRC channel on Libera.Chat"
-		src="https://img.shields.io/badge/Libera.Chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://yarn.pm/thelounge"><img
-		alt="npm version"
-		src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41&maxAge=3600"></a>
-	<a href="https://github.com/thelounge/thelounge/actions"><img
-		alt="Build Status"
-		src="https://github.com/thelounge/thelounge/workflows/Build/badge.svg"></a>
+<p align="center" dir="auto">
+	<a href="https://demo.thelounge.chat/" rel="nofollow"><img alt="Libera.Chat 上的 #thelounge IRC 频道" src="https://camo.githubusercontent.com/85feb67cec33a0e369bdecfca55aae83a059e689bb1fb99c1afbc51984878fb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69626572612e436861742d2532337468656c6f756e67652d3431353336342e7376673f636f6c6f72413d666639653138" data-canonical-src="https://img.shields.io/badge/Libera.Chat-%23thelounge-415364.svg?colorA=ff9e18" style="max-width: 100%;"></a>
+	<a href="https://yarn.pm/thelounge" rel="nofollow"><img alt="npm版本" src="https://camo.githubusercontent.com/c47e38d87f5c42a12b5af7af322e4cdfb7359a96793467f1e429dff54a8cc24e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7468656c6f756e67652e7376673f636f6c6f72413d333333613431266d61784167653d33363030" data-canonical-src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41&amp;maxAge=3600" style="max-width: 100%;"></a>
+	<a href="https://github.com/thelounge/thelounge/actions"><img alt="构建状态" src="https://github.com/thelounge/thelounge/workflows/Build/badge.svg" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/thelounge/thelounge.github.io/master/img/thelounge-screenshot.png" width="550">
+<p align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thelounge/thelounge.github.io/master/img/thelounge-screenshot.png"><img src="https://raw.githubusercontent.com/thelounge/thelounge.github.io/master/img/thelounge-screenshot.png" width="550" style="max-width: 100%;"></a>
 </p>
-
-## Overview
-
-- **Modern features brought to IRC.** Push notifications, link previews, new message markers, and more bring IRC to the 21st century.
-- **Always connected.** Remains connected to IRC servers while you are offline.
-- **Cross platform.** It doesn't matter what OS you use, it just works wherever Node.js runs.
-- **Responsive interface.** The client works smoothly on every desktop, smartphone and tablet.
-- **Synchronized experience.** Always resume where you left off no matter what device.
-
-To learn more about configuration, usage and features of The Lounge, take a look at [the website](https://thelounge.chat).
-
-The Lounge is the official and community-managed fork of [Shout](https://github.com/erming/shout), by [Mattias Erming](https://github.com/erming).
-
-## Installation and usage
-
-The Lounge requires latest [Node.js](https://nodejs.org/) LTS version or more recent.
-The [Yarn package manager](https://yarnpkg.com/) is also recommended.
-If you want to install with npm, `--unsafe-perm` is required for a correct install.
-
-### Running stable releases
-
-Please refer to the [install and upgrade documentation on our website](https://thelounge.chat/docs/install-and-upgrade) for all available installation methods.
-
-### Running from source
-
-The following commands install and run the development version of The Lounge:
-
-```sh
-git clone https://github.com/thelounge/thelounge.git
+<h2 tabindex="-1" dir="auto"><a id="user-content-overview" class="anchor" aria-hidden="true" tabindex="-1" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h2>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IRC 引入了现代功能。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推送通知、链接预览、新消息标记等将 IRC 带入 21 世纪。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">始终连接。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当您离线时仍保持与 IRC 服务器的连接。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无论您使用什么操作系统，它都可以在 Node.js 运行的任何地方运行。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">响应式界面。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该客户端可以在所有台式机、智能手机和平板电脑上流畅运行。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同步体验。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无论使用何种设备，始终从中断处继续。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要了解有关 The Lounge 的配置、使用和功能的更多信息，请访问</font></font><a href="https://thelounge.chat" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The Lounge 是由</font><a href="https://github.com/erming"><font style="vertical-align: inherit;">Mattias Erming开发的</font></a></font><a href="https://github.com/erming/shout"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shout</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方和社区管理的分支</font><font style="vertical-align: inherit;">。</font></font><a href="https://github.com/erming"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-installation-and-usage" class="anchor" aria-hidden="true" tabindex="-1" href="#installation-and-usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装与使用</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lounge 需要最新的</font></font><a href="https://nodejs.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> LTS 版本或更高版本。</font><font style="vertical-align: inherit;">还推荐使用</font></font><a href="https://yarnpkg.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Yarn 包管理器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">如果您想使用 npm 安装，</font></font><code>--unsafe-perm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">则需要正确安装。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-running-stable-releases" class="anchor" aria-hidden="true" tabindex="-1" href="#running-stable-releases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行稳定版本</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://thelounge.chat/docs/install-and-upgrade" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们网站上的安装和升级文档，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解所有可用的安装方法。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-running-from-source" class="anchor" aria-hidden="true" tabindex="-1" href="#running-from-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码运行</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下命令安装并运行 The Lounge 的开发版本：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/thelounge/thelounge.git
+<span class="pl-c1">cd</span> thelounge
+yarn install
+NODE_ENV=production yarn build
+yarn start</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/thelounge/thelounge.git
 cd thelounge
 yarn install
 NODE_ENV=production yarn build
-yarn start
-```
-
-When installed like this, `thelounge` executable is not created. Use `node index <command>` to run commands.
-
-⚠️ While it is the most recent codebase, this is not production-ready! Run at
-your own risk. It is also not recommended to run this as root.
-
-## Development setup
-
-Simply follow the instructions to run The Lounge from source above, on your own
-fork.
-
-Before submitting any change, make sure to:
-
-- Read the [Contributing instructions](https://github.com/thelounge/thelounge/blob/master/.github/CONTRIBUTING.md#contributing)
-- Run `yarn test` to execute linters and the test suite
-  - Run `yarn format:prettier` if linting fails
-- Run `yarn build:client` if you change or add anything in `client/js` or `client/components`
-  - The built files will be output to `public/` by webpack
-- Run `yarn build:server` if you change anything in `server/`
-  - The built files will be output to `dist/` by tsc
-- `yarn dev` can be used to start The Lounge with hot module reloading
-
-To ensure that you don't commit files that fail the linting, you can install a pre-commit git hook.
-Execute `yarn githooks-install` to do so.
+yarn start" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像这样安装时，</font></font><code>thelounge</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不会创建可执行文件。用于</font></font><code>node index &lt;command&gt;</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行命令。</font></font></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然它是最新的代码库，但尚未准备好投入生产！运行风险自负。也不建议以 root 身份运行它。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-development-setup" class="anchor" aria-hidden="true" tabindex="-1" href="#development-setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发设置</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需按照说明在您自己的 fork 上从上面的源代码运行 The Lounge 即可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在提交任何更改之前，请确保：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读</font></font><a href="https://github.com/thelounge/thelounge/blob/master/.github/CONTRIBUTING.md#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献说明</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>yarn test</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以执行 linter 和测试套件
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>yarn format:prettier</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果 linting 失败则</font><font style="vertical-align: inherit;">运行</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"></font><code>yarn build:client</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您更改或添加任何内容，</font></font><code>client/js</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请</font><font style="vertical-align: inherit;">运行</font></font><code>client/components</code>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>public/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建的文件将由webpack</font><font style="vertical-align: inherit;">输出</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"></font><code>yarn build:server</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您更改了任何内容，</font><font style="vertical-align: inherit;">请运行</font></font><code>server/</code>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>dist/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建的文件将由tsc</font><font style="vertical-align: inherit;">输出</font></font></li>
+</ul>
+</li>
+<li><code>yarn dev</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可用于通过热模块重新加载来启动 The Lounge</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了确保您不会提交无法通过 linting 的文件，您可以安装预提交 git hook。执行</font></font><code>yarn githooks-install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即可。</font></font></p>
+</article></div>
